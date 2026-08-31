@@ -30,15 +30,15 @@ DTSTAMP:20260831T130221Z
 DTSTART;TZID=Europe/London:20260906T113000
 DTEND;TZID=Europe/London:20260906T123000
 SUMMARY:Wigan Junior Latics U13 Yellows vs Appley Bridge U13
-LOCATION:BANKES AVENUE PLAYING FIELDS Pitch 2 11 v 11\, BANKES AVENUE\, ORR
- ELL\, WIGAN WN5 8HU
+LOCATION:Bankes Avenue Playing Fields\, Bankes Avenue\, Orrell\, Wigan\, WN
+ 5 8HU
 GEO:53.534752;-2.691302
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="BANKES AVENUE, ORRELL, WIG
- AN WN5 8HU";X-APPLE-RADIUS=100;X-TITLE="BANKES AVENUE PLAYING FIELDS Pitch
-  2 11 v 11":geo:53.534752,-2.691302
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bankes Avenue, Orrell, Wig
+ an, WN5 8HU";X-APPLE-RADIUS=100;X-TITLE="Bankes Avenue Playing Fields (Pit
+ ch 2)":geo:53.534752,-2.691302
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nAddress: BANKES AVENUE\, ORRELL\, WIGAN WN5 8HU\nhttps://fulltime.thef
- a.com/displayFixture.html?id=30442214
+ed\nAddress: Bankes Avenue, Orrell, Wigan WN5 8HU\nPitch: Pitch 2 (11 v 11)
+\nhttps://fulltime.thefa.com/displayFixture.html?id=30442214
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442214
 STATUS:CONFIRMED
 END:VEVENT
