@@ -26,313 +26,391 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:30442214@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20260906T113000
 DTEND;TZID=Europe/London:20260906T123000
 SUMMARY:Wigan Junior Latics U13 Yellows vs Appley Bridge U13
-LOCATION:BANKES AVENUE PLAYING FIELDS Pitch 2 11 v 11
+LOCATION:BANKES AVENUE PLAYING FIELDS Pitch 2 11 v 11\, BANKES AVENUE\, ORR
+ ELL\, WIGAN WN5 8HU
+GEO:53.534752;-2.691302
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442214
+ ed\nAddress: BANKES AVENUE\, ORRELL\, WIGAN WN5 8HU\nhttps://fulltime.thef
+ a.com/displayFixture.html?id=30442214
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442214
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442398@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20260913T090000
 DTEND;TZID=Europe/London:20260913T100000
 SUMMARY:East Leigh AFC U13 Titans Sunday vs Appley Bridge U13
-LOCATION:DOOTSONS PARK PLAYING FIELDS
+LOCATION:DOOTSONS PARK PLAYING FIELDS\, DOOTSONS PARK BUTTS STREET\, LEIGH 
+ WN7 3AG
+GEO:53.490166;-2.501969
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442398
+ ed\nAddress: DOOTSONS PARK BUTTS STREET\, LEIGH WN7 3AG\nhttps://fulltime.
+ thefa.com/displayFixture.html?id=30442398
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442398
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442236@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20260920T101500
 DTEND;TZID=Europe/London:20260920T111500
 SUMMARY:F.C. Britannia (Wigan) U13 White vs Appley Bridge U13
-LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9
+LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9\, WILLIAM FOSTE
+ R PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE\, WIGAN WN2 2BU
+GEO:53.539463;-2.612207
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442236
+ ed\nAddress: WILLIAM FOSTER PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE
+ \, WIGAN WN2 2BU\nhttps://fulltime.thefa.com/displayFixture.html?id=304422
+ 36
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442236
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442260@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20260927T084500
 DTEND;TZID=Europe/London:20260927T094500
 SUMMARY:Appley Bridge U13 vs Cherrybrook U13 robins
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442260
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442260
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442260
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442262@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261004T111500
 DTEND;TZID=Europe/London:20261004T121500
 SUMMARY:Appley Bridge U13 vs Vulcan Football Club U13 Rovers
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442262
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442262
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442262
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442275@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261011T093000
 DTEND;TZID=Europe/London:20261011T103000
 SUMMARY:FC SPARTA JUNIORS U13 Fc Sparta Barca vs Appley Bridge U13
-LOCATION:CARMEL COLLEGE
+LOCATION:CARMEL COLLEGE\, PRESCOT ROAD\, ST. HELENS WA10 3AG
+GEO:53.442947;-2.771617
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442275
+ ed\nAddress: PRESCOT ROAD\, ST. HELENS WA10 3AG\nhttps://fulltime.thefa.co
+ m/displayFixture.html?id=30442275
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442275
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442289@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261018T111500
 DTEND;TZID=Europe/London:20261018T121500
 SUMMARY:Appley Bridge U13 vs Hawkley U13 Hawkley
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442289
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442289
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442289
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442308@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261025T100000
 DTEND;TZID=Europe/London:20261025T110000
 SUMMARY:Hindley Juniors U13 Jaguars vs Appley Bridge U13
-LOCATION:HINDLEY JUNIORS FOOTBALL CLUB Pitch 2 Midi 11 v 11
+LOCATION:HINDLEY JUNIORS FOOTBALL CLUB Pitch 2 Midi 11 v 11\, HARRISON PLAY
+ ING FIELDS PARK ROAD\, HINDLEY\, WIGAN WN2 3RX
+GEO:53.524502;-2.57285
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442308
+ ed\nAddress: HARRISON PLAYING FIELDS PARK ROAD\, HINDLEY\, WIGAN WN2 3RX\n
+ https://fulltime.thefa.com/displayFixture.html?id=30442308
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442308
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442316@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261101T111500
 DTEND;TZID=Europe/London:20261101T121500
 SUMMARY:Appley Bridge U13 vs FC Wigan U13 FC Wigan Warriors
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442316
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442316
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442316
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442330@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261108T113000
 DTEND;TZID=Europe/London:20261108T123000
 SUMMARY:Golborne Sports Junior U13 Falcons vs Appley Bridge U13
-LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9
+LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9\, WILLIAM FOSTE
+ R PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE\, WIGAN WN2 2BU
+GEO:53.539463;-2.612207
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442330
+ ed\nAddress: WILLIAM FOSTER PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE
+ \, WIGAN WN2 2BU\nhttps://fulltime.thefa.com/displayFixture.html?id=304423
+ 30
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442330
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442345@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261115T100000
 DTEND;TZID=Europe/London:20261115T110000
 SUMMARY:Appley Bridge U13 vs Highfield Grange U13 Athletic
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442345
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442345
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442345
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442360@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261122T100000
 DTEND;TZID=Europe/London:20261122T110000
 SUMMARY:Leigh Genesis U13 Formation vs Appley Bridge U13
-LOCATION:LOWTON CHURCH OF ENGLAND HIGH SCHOOL 7 v 7
+LOCATION:LOWTON CHURCH OF ENGLAND HIGH SCHOOL 7 v 7\, NEWTON ROAD\, LOWTON\
+ , WARRINGTON WA3 1DU
+GEO:53.47551;-2.545821
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442360
+ ed\nAddress: NEWTON ROAD\, LOWTON\, WARRINGTON WA3 1DU\nhttps://fulltime.t
+ hefa.com/displayFixture.html?id=30442360
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442360
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442371@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261129T111500
 DTEND;TZID=Europe/London:20261129T121500
 SUMMARY:Appley Bridge U13 vs Wigan Borough FC U13 Cobras Wigan Boroug
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442371
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442371
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442371
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442384@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261206T111500
 DTEND;TZID=Europe/London:20261206T121500
 SUMMARY:Appley Bridge U13 vs Wigan Junior Latics U13 Yellows
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442384
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442384
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442384
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442233@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20261213T111500
 DTEND;TZID=Europe/London:20261213T121500
 SUMMARY:Appley Bridge U13 vs East Leigh AFC U13 Titans Sunday
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442233
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442233
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442233
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442410@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270110T084500
 DTEND;TZID=Europe/London:20270110T094500
 SUMMARY:Appley Bridge U13 vs F.C. Britannia (Wigan) U13 White
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442410
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442410
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442410
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442429@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270117T111500
 DTEND;TZID=Europe/London:20270117T121500
 SUMMARY:Cherrybrook U13 robins vs Appley Bridge U13
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (2) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (2) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442429
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442429
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442429
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442433@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270124T100000
 DTEND;TZID=Europe/London:20270124T110000
 SUMMARY:Vulcan Football Club U13 Rovers vs Appley Bridge U13
-LOCATION:VULCAN SPORTS CLUB
+LOCATION:VULCAN SPORTS CLUB\, RALEIGH CLOSE\, NEWTON-LE-WILLOWS WA12 8NN
+GEO:53.445511;-2.624647
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442433
+ ed\nAddress: RALEIGH CLOSE\, NEWTON-LE-WILLOWS WA12 8NN\nhttps://fulltime.
+ thefa.com/displayFixture.html?id=30442433
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442433
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442454@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270131T100000
 DTEND;TZID=Europe/London:20270131T110000
 SUMMARY:Appley Bridge U13 vs FC SPARTA JUNIORS U13 Fc Sparta Barca
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442454
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442454
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442454
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442462@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270207T100000
 DTEND;TZID=Europe/London:20270207T110000
 SUMMARY:Hawkley U13 Hawkley vs Appley Bridge U13
-LOCATION:ST AIDANS RC SCHOOL
+LOCATION:ST AIDANS RC SCHOOL\, HOLMES HOUSE AVENUE\, WIGAN WN3 6EE
+GEO:53.521683;-2.66821
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442462
+ ed\nAddress: HOLMES HOUSE AVENUE\, WIGAN WN3 6EE\nhttps://fulltime.thefa.c
+ om/displayFixture.html?id=30442462
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442462
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442473@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270214T111500
 DTEND;TZID=Europe/London:20270214T121500
 SUMMARY:Appley Bridge U13 vs Hindley Juniors U13 Jaguars
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (2) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (2) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442473
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442473
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442473
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442495@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270221T090000
 DTEND;TZID=Europe/London:20270221T100000
 SUMMARY:FC Wigan U13 FC Wigan Warriors vs Appley Bridge U13
-LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9
+LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9\, WILLIAM FOSTE
+ R PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE\, WIGAN WN2 2BU
+GEO:53.539463;-2.612207
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442495
+ ed\nAddress: WILLIAM FOSTER PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE
+ \, WIGAN WN2 2BU\nhttps://fulltime.thefa.com/displayFixture.html?id=304424
+ 95
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442495
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442502@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270228T100000
 DTEND;TZID=Europe/London:20270228T110000
 SUMMARY:Appley Bridge U13 vs Golborne Sports Junior U13 Falcons
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (2) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (2) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442502
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442502
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442502
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442519@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270307T113000
 DTEND;TZID=Europe/London:20270307T123000
 SUMMARY:Highfield Grange U13 Athletic vs Appley Bridge U13
-LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9
+LOCATION:LEISURE UNITED WILLIAM FOSTERS Pitch 2 - (2) 9 v 9\, WILLIAM FOSTE
+ R PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE\, WIGAN WN2 2BU
+GEO:53.539463;-2.612207
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442519
+ ed\nAddress: WILLIAM FOSTER PLAYING FIELDS\, THE PAVILION THE GROVE\, INCE
+ \, WIGAN WN2 2BU\nhttps://fulltime.thefa.com/displayFixture.html?id=304425
+ 19
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442519
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442530@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270314T100000
 DTEND;TZID=Europe/London:20270314T110000
 SUMMARY:Appley Bridge U13 vs Leigh Genesis U13 Formation
-LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9
+LOCATION:LEISURE UNITED LAITHWAITE PARK Hub P2 (3) 9v9\, LAITHWAITE PARK\, 
+ THE PAVILION SCOT LANE\, WIGAN WN5 0UE
+GEO:53.541218;-2.659237
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442530
+ ed\nAddress: LAITHWAITE PARK\, THE PAVILION SCOT LANE\, WIGAN WN5 0UE\nhtt
+ ps://fulltime.thefa.com/displayFixture.html?id=30442530
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442530
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30442537@fulltime.thefa.com
-DTSTAMP:20260831T105640Z
+DTSTAMP:20260831T120449Z
 DTSTART;TZID=Europe/London:20270321T100000
 DTEND;TZID=Europe/London:20270321T110000
 SUMMARY:Wigan Borough FC U13 Cobras Wigan Boroug vs Appley Bridge U13
-LOCATION:MARSLAND GREEN
+LOCATION:MARSLAND GREEN\, MARSLAND GREEN LANE\, ASTLEY\, TYLDESLEY M29 7LH
+GEO:53.491135;-2.476333
 DESCRIPTION:Type: L\nLeague: Wigan & District Youth League\nStatus: schedul
- ed\nhttps://fulltime.thefa.com/displayFixture.html?id=30442537
+ ed\nAddress: MARSLAND GREEN LANE\, ASTLEY\, TYLDESLEY M29 7LH\nhttps://ful
+ ltime.thefa.com/displayFixture.html?id=30442537
 URL:https://fulltime.thefa.com/displayFixture.html?id=30442537
 STATUS:CONFIRMED
 END:VEVENT
